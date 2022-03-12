@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "af2dab0678756f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01421fe715ff69d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b27a1ff4b5647916",
+    "type": "split",
+    "children": [
+      {
+        "id": "db2d5573d3347144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca00dd553a34a297",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45714fde4a6d6b3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be11daa36d43e4c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b35865871c95f14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58efbe74ddafbe5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b0bacb038d598b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1a8d2e89ac65160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c01421fe715ff69d",
+  "lastOpenFiles": [
+    "GOI Act of 1935.md",
+    "Warren Hastings.md",
+    "Pitts India Act 1784.md",
+    "Cornwallis.md",
+    "Third Anglo Mysore War.md",
+    "DPSP.md",
+    "Constitution.md",
+    "Fundamental duties.md",
+    "42nd amendment of 1976.md",
+    "Preamble.md"
+  ]
+}

@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240,
+    "collapsed": true
   },
   "right": {
     "id": "be11daa36d43e4c3",
@@ -106,15 +107,15 @@
   },
   "active": "c01421fe715ff69d",
   "lastOpenFiles": [
-    "GOI Act of 1935.md",
-    "Warren Hastings.md",
-    "Pitts India Act 1784.md",
-    "Cornwallis.md",
-    "Third Anglo Mysore War.md",
-    "DPSP.md",
-    "Constitution.md",
-    "Fundamental duties.md",
-    "42nd amendment of 1976.md",
-    "Preamble.md"
+    "Citizenship.md",
+    "Union and its Territories.md",
+    "Dhar Committee.md",
+    "India.md",
+    "Wellesley.md",
+    "Dalhousie.md",
+    "Sikh.md",
+    "Press Act of 1835.md",
+    "Mysore.md",
+    "Nizam of Hyderabad.md"
   ]
 }

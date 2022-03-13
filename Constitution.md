@@ -1,4 +1,4 @@
-The present constitution was framed and adapted by a constituent assembly on 26 Nov [[1949]]. It came into force on 26 Jan [[1950]].
+The present constitution of [[India]] was framed and adapted by a constituent assembly on 26 Nov [[1949]]. It came into force on 26 Jan [[1950]].
 
 The [[Constituent Assembly]] was set up under [[Cabinet Mission]] [[1946]](Rash), it had 385 members of which 292 were elected by the provincial assemblies and 93 were from princely states. But when [[Muslim League]] decided to withdraw from India and with the creation of Constituent Assembly for Pakistan in 16 July [[1947]], the membership reduced to 299 from provinces and 70 from princely states
 

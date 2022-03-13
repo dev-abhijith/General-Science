@@ -1,5 +1,5 @@
 - Annexation of Punjab after second Anglo [[Sikh]] war in 1849
-- Doctrine of Lapse
+- [[Doctrine of Lapse]]
 - [[Charter Act of 1853]] (phloem)
 - [[Wood's dispatch]] 1854 leading to opening of anglo vernacular institutions
 - Laying of first railway line between [[Bombay]] and Thane in 1853 (phloem)

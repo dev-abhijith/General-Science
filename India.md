@@ -6,6 +6,7 @@ India can be subdivided into 3 main regions
 3) Indian Peninsula consisting of uneven plateus flanked by coastal plains towards east and west
 India Latitude : 8 Degree 4 minutes North to 37 Degree 6 minutes North
 India Longitude : 68 degree 7 minutes East to 97 degree 25 minutes East
+[[Latitudes and Longitudes]]
 
 Northern most point is **Indira Col** in J&K
 Southern most point is **pygmalion point** or **Indira point** in Kanyakumari

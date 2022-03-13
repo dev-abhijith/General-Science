@@ -1,5 +1,5 @@
-- [[Third Anglo Mysore War]] 1790-1792() and the [[Treaty of Seringapatanam]] in 1792
-- Permanent settlement of [[Bengal]] in 1793
+- [[Third Anglo Mysore War]] 1790-1792(Gypsy Cabin) and the [[Treaty of Seringapatanam]] in 1792
+- Permanent settlement of [[Bengal]] in 1793(TechBooM)
 - Adoption of Cornwallis code
 1) Introduction of Civil services
 2) Several Judicial Reforms of [[British]] Administration

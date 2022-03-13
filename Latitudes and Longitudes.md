@@ -11,4 +11,5 @@ South of the tropic of Cancer is tropical climate
 
 There is a 2 hour difference in time from west to east of [[India]] hence 82 degree 30 minutes east is considered standard time
 
- 
+****
+[[Earth]]

@@ -7,8 +7,13 @@
         "id": "c01421fe715ff69d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "42nd amendment of 1976.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "be11daa36d43e4c3",
@@ -66,6 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "42nd amendment of 1976.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,13 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "42nd amendment of 1976.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -103,19 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242
   },
   "active": "c01421fe715ff69d",
   "lastOpenFiles": [
-    "Citizenship.md",
-    "Union and its Territories.md",
-    "Dhar Committee.md",
-    "India.md",
-    "Wellesley.md",
+    "42nd amendment of 1976.md",
+    "DPSP.md",
+    "Revision.md",
+    "Charter Act of 1853.md",
+    "Canning.md",
+    "Warren Hastings.md",
+    "Regulating Act of 1773.md",
+    "Wood's dispatch.md",
     "Dalhousie.md",
-    "Sikh.md",
-    "Press Act of 1835.md",
-    "Mysore.md",
-    "Nizam of Hyderabad.md"
+    "Constitution.md"
   ]
 }

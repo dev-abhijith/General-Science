@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "42nd amendment of 1976.md",
+            "file": "Drainage Systems.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Indus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42nd amendment of 1976.md",
+                "file": "Drainage Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42nd amendment of 1976.md",
+                "file": "Drainage Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "c01421fe715ff69d",
   "lastOpenFiles": [
-    "42nd amendment of 1976.md",
-    "DPSP.md",
-    "Revision.md",
-    "Charter Act of 1853.md",
-    "Canning.md",
-    "Warren Hastings.md",
-    "Regulating Act of 1773.md",
-    "Wood's dispatch.md",
+    "Drainage Systems.md",
+    "Social Reform Movements.md",
     "Dalhousie.md",
-    "Constitution.md"
+    "Theosophical Society.md",
+    "Swami Vivekananda.md",
+    "Ramakrishna Paramahamsa.md",
+    "Dayananda Saraswati.md",
+    "Kesab Chandra Sen.md",
+    "Revision.md",
+    "Brahmo Samaj.md"
   ]
 }

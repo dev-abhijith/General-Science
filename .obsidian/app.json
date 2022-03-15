@@ -2,5 +2,8 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "showLineNumber": false,
+  "spellcheck": false,
+  "foldIndent": true
 }

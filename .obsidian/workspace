@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c01421fe715ff69d",
+        "id": "23fe3c533d8092f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drainage Systems.md",
+            "file": "Revision.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Indus",
+                "query": "tag:#Fundamental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drainage Systems.md",
+                "file": "Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drainage Systems.md",
+                "file": "Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 232
   },
-  "active": "c01421fe715ff69d",
+  "active": "23fe3c533d8092f1",
   "lastOpenFiles": [
-    "Drainage Systems.md",
-    "Social Reform Movements.md",
-    "Dalhousie.md",
-    "Theosophical Society.md",
-    "Swami Vivekananda.md",
-    "Ramakrishna Paramahamsa.md",
-    "Dayananda Saraswati.md",
-    "Kesab Chandra Sen.md",
     "Revision.md",
-    "Brahmo Samaj.md"
+    "Drainage Systems.md",
+    "Templates/Untitled.md",
+    "Swami Vivekananda.md",
+    "Emergency Provision.md",
+    "Fundamental duties.md",
+    "Writs.md",
+    "DPSP.md",
+    "Social Reform Movements.md",
+    "Theosophical Society.md"
   ]
 }

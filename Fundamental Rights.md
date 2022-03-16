@@ -24,7 +24,7 @@ When they get distracted, dora TAPE(19) them to the wall and restrict their free
   
 She covers their NOSE(20) and try forcing them to incriminate themself  
   
-A man was was catching FISH (86amendment) in NUDE(21) runs upto them to protect them from dora and he sends her to a school 🏫 for education at a convent  
+A man was was catching FISH (86amendment) in NUDE(21) runs upto them to protect them from dora and he sends her to a school 🏫 for education(21 A) at a convent  
   
 Dons police chases her and demands to arrest and detain her, but the NUN(22) don't let them  
   

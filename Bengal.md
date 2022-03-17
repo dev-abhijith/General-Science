@@ -28,7 +28,7 @@ Mir Qasim tried to raise an efficient army according to european standards and p
 
 The combined forces of Mir Qasim, Shuja-ud-daula, [[Shah Alam II]] fought the British force in the [[Battle of Buxar]] in Oct 1764 (***tug chor***). The British defeated the combined army, multiple times larger than themselves due to mutual hostilities in the army.
 
-[[Shah Alam II]] had to sign [[Treaty of Allahabad]] with the British in 1765, and he accordingly kept the Nizamat(Civil and Police) of 100 million acres of land (present odisha, Bengal, Bihar) ([[Awadh]]) in return for 2.6 million annual tribute, while Diwani(revenue) was collected by the British.
+[[Shah Alam II]] had to sign [[Treaty of Allahabad]] with the British in 1765, and he accordingly kept the Nizamat(Civil and Police) of 100 million acres of land (present odisha, Bengal, Bihar) ([[Awadh]]) in return for 2.6 million annual tribute, while Diwani(revenue) was collected by the British. (came to be known as [[Dual Administration of Bengal]])
 
 The company also acquired Kara and [[Allahabad]] and kept the Mughal as a pensioner (proxy so the British crown is unaware of developments and does not interfere and for [[Warren Hastings]] - **Ring of fence policy**) for 6 years until the Marathas escorted him to Delhi.
 

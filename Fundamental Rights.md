@@ -1,6 +1,6 @@
 ![[Pasted image 20220313120107.png]]
 
-Fundamental Rights - Magna Carta of the constituition
+Fundamental Rights - Magna Carta of the [[Constitution]]
 equality - Dora Devi
 freedom - tub nun
 exploitation - honeymooner

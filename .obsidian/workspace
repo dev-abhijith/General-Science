@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "23fe3c533d8092f1",
+        "id": "3252f4df6d25fb45",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fundamental",
+                "query": "schedul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 232
   },
-  "active": "23fe3c533d8092f1",
+  "active": "3252f4df6d25fb45",
   "lastOpenFiles": [
     "Revision.md",
-    "Drainage Systems.md",
+    "Indian Economy Under British.md",
     "Templates/Untitled.md",
-    "Swami Vivekananda.md",
-    "Emergency Provision.md",
-    "Fundamental duties.md",
-    "Writs.md",
-    "DPSP.md",
-    "Social Reform Movements.md",
-    "Theosophical Society.md"
+    "Fundamental Rights.md",
+    "Constitution.md",
+    "President.md",
+    "Pasted image 20220316135257.png",
+    "Pasted image 20220316140806.png",
+    "The Union Executive.md",
+    "Union and its Territories.md"
   ]
 }

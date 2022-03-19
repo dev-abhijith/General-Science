@@ -57,3 +57,14 @@ Drainage Systems
 ****
 ### 16-3-2022
 The Union Executive
+Indian economy under British rule
+****
+### 17-3-2022
+Indian Economy Under British
+Economic Nationalism
+Emergency Provision
+Physical geography of India
+Read Physical geography from Kas book
+****
+### 19-03-2022
+

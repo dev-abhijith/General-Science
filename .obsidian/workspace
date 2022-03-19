@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Revision.md",
+            "file": "Physical Geography of India.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revision.md",
+                "file": "Physical Geography of India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revision.md",
+                "file": "Physical Geography of India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +109,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 232,
+    "collapsed": true
   },
   "active": "3252f4df6d25fb45",
   "lastOpenFiles": [
+    "Physical Geography of India.md",
     "Revision.md",
+    "DPSP.md",
+    "Fundamental duties.md",
+    "42nd amendment of 1976.md",
+    "Preamble.md",
+    "Emergency Provision.md",
+    "Economic Nationalism.md",
     "Indian Economy Under British.md",
-    "Templates/Untitled.md",
-    "Fundamental Rights.md",
-    "Constitution.md",
-    "President.md",
-    "Pasted image 20220316135257.png",
-    "Pasted image 20220316140806.png",
-    "The Union Executive.md",
-    "Union and its Territories.md"
+    "Templates/Untitled.md"
   ]
 }

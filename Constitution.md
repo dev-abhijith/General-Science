@@ -6,7 +6,7 @@ Initially the constitution contained 395 articles 22 parts (Maple Nun) 8 schedul
 
 More than half of the constitution was from the [[GOI Act of 1935]]
 
-[[Fundamental duties]] added in the [[42nd amendment of 1976]]
+[[Fundamental duties]] added in the [[42nd amendment of 1976]] (Rune Bookish)
 
 [[DPSP]] 
 ****
@@ -17,7 +17,7 @@ The architects of the Indian constitution tried to borrow time tested principles
 Federal Scheme, Declaration of emergency powers, Ordinance making powers of President and governors, office of governor, Power of federal judiciary, Administrative structure in centre and states.
 
 **[[British|UK England]]**
-Parliamentary system, Bicameral parliament, Prime Minister, Counsil of ministers, Single citizenship, office of CAG, **writ** jurisdiction of courts, rule of law
+Parliamentary system, Bicameral parliament, Prime Minister, Council of ministers, Single citizenship, office of CAG, **writ** jurisdiction of courts, rule of law
 
 **USA** 
 Written constitution, Fundamental Rights, Supreme Court, President as executive head, vice president as chairman of council of states, Judicial Review 

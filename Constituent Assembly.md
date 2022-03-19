@@ -1,4 +1,4 @@
-The first meeting of constituent assembly had taken place on 9 Dec [[1946]] with **Dr. Sachidananda Sinha** as the interim president. Consequently **Dr. [[Rajendra prasad]]** was elected as president on 11 Dec 1946 (Teeth Den Rash)
+The first meeting of constituent assembly had taken place on 9 Dec [[1946]] (Rash) with **Dr. Sachidananda Sinha** as the interim president. Consequently **Dr. [[Rajendra prasad]]** was elected as president on 11 Dec 1946 (Teeth Den Rash)
 
 **Committees formed under constituent assembly**
 Union Constitution & Union Powers committee ---> **[[JL Nehru]]** 

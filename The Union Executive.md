@@ -2,7 +2,7 @@ The theory of seperation of powers divide the organs of State into three parts, 
 
 **Legislature** consists of democratically elected representatives of the people since [[India]] adopted a federal structure the legislative powers are divided between Union and State.
 
-**The Executive** of the State emerges out of the legislature, the Parliament elects the executive out of the legislature. Executive in polity means the organ of State which executes the law and conducts national and public affairs. Since the [[Prime Minister]] is the head of the majority party of elected legislature nad head of government there is a chance of concentration of power, hence the [[President]] is the head of the Executive
+**The Executive** of the State emerges out of the legislature, the Parliament elects the executive out of the legislature. Executive in polity means the organ of State which executes the law and conducts national and public affairs. Since the [[Prime Minister]] is the head of the majority party of elected legislature and head of government there is a chance of concentration of power, hence the [[President]] is the head of the Executive
 
 **The Judiciary** has been made seperate from the Legislature and Executive to check over the other organs of the state and safeguard the constitution.
 

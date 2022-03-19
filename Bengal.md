@@ -9,7 +9,7 @@ When [[Siraj-ud-daula]] ascended the throne differences with english arose, main
 	2) imposition of heavy customs duty on Indians for trade through Calcutta port
 	3) English gave shelter to a fugitive prince from Siraj-ud-daula
 	4) The **main** reason was however *Fortification of [[Calcutta]]* in anticipation of Anglo-French rivalry French stopped fortification but the English did not.
-Acting immediately to secure his interest, the Nawab seized the English factory at kazimbazar and marched towards [[Calcutta]] and secured [[Fort Williams]] on june 1756 the British fled from the fort and took shelter in an Island( In Hugli ) due to their strong naval force
+Acting immediately to secure his interest, the Nawab seized the English factory at kazimbazar and marched towards [[Calcutta]] and secured [[Fort Williams]] (Black hole incident) on june 1756 the British fled from the fort and took shelter in an Island( In Hugli ) due to their strong naval force
 
 Soon reinforcements arrive in the form of Admiral Watson and colonel [[Robert Clive]] who dislodged Nawab's men with ease and took back the fort. 
 
@@ -28,7 +28,7 @@ Mir Qasim tried to raise an efficient army according to european standards and p
 
 The combined forces of Mir Qasim, Shuja-ud-daula, [[Shah Alam II]] fought the British force in the [[Battle of Buxar]] in Oct 1764 (***tug chor***). The British defeated the combined army, multiple times larger than themselves due to mutual hostilities in the army.
 
-[[Shah Alam II]] had to sign [[Treaty of Allahabad]] with the British in 1765, and he accordingly kept the Nizamat(Civil and Police) of 100 million acres of land (present odisha, Bengal, Bihar) ([[Awadh]]) in return for 2.6 million annual tribute, while Diwani(revenue) was collected by the British. (came to be known as [[Dual Administration of Bengal]])
+[[Shah Alam II]] the nawab of awadh had to sign [[Treaty of Allahabad]] with the British in 1765, and he accordingly kept the Nizamat(Civil and Police) of 100 million acres of land (present odisha, Bengal, Bihar) ([[Awadh]]) in return for 2.6 million annual tribute, while Diwani(revenue) was collected by the British. (came to be known as [[Dual Administration of Bengal]])
 
 The company also acquired Kara and [[Allahabad]] and kept the Mughal as a pensioner (proxy so the British crown is unaware of developments and does not interfere and for [[Warren Hastings]] - **Ring of fence policy**) for 6 years until the Marathas escorted him to Delhi.
 
